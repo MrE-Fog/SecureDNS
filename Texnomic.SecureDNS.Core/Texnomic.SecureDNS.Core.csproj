@@ -31,7 +31,7 @@
 	<ItemGroup>
 		<PackageReference Include="Common.Logging" Version="3.4.1" />
 		<PackageReference Include="Common.Logging.Serilog" Version="4.4.0" />
-		<PackageReference Include="Destructurama.Attributed" Version="3.0.0" />
+		<PackageReference Include="Destructurama.Attributed" Version="3.1.0" />
 		<PackageReference Include="Microsoft.Extensions.Options" Version="7.0.1" />
 		<PackageReference Include="Nerdbank.Streams" Version="2.9.112" />
 		<PackageReference Include="NSec.Cryptography" Version="22.4.0" />
